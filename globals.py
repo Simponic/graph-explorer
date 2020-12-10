@@ -1,0 +1,15 @@
+WIDTH =800
+HEIGHT=800
+
+WHITE=(255 , 255 , 255)
+BLACK=(0   , 0   , 0  )
+RED  =(255 , 0   , 0  )
+GREEN=(0   , 255 , 0  )
+BLUE =(0   , 0   , 255)
+
+NODE_MIN_VEL = 1.0
+NODE_MAX_VEL = 2.0
+
+NODE_MIN_RADIUS = 8
+NODE_MAX_RADIUS = 30
+

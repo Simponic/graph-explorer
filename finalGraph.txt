@@ -1,0 +1,308 @@
+Set Cartesian_Product 0.7 Is an operand of    
+Cartesian_Product Product 0.9 Is a type of    
+Product Operation 1.0 Is an    
+Set Ordered 1.0 Can be    
+Ordered Unordered 1.0 Is opposite to    
+Unordered Ordered 1.0 Is opposite to    
+Set Unordered 1.0 Can be    
+Set Element 1.0 Contain many    
+Element Set 1.0 Is the smallest unit of    
+Sets Relation 0.6 Can describe    
+Relation Function 1.0 Is another word for    
+Function Mapping 1.0 Is another word for    
+Mapping Relation 1.0 Is another word for    
+Relation Function 1.0 Is another word for    
+Function Onto 0.7 Can be    
+Onto Function 0.7 Describes a property of    
+Function One_To_One 0.7 Can be    
+One_To_One Function 0.7 Describes a property of    
+Injective One_To_One 1.0 Is another word for    
+One_To_One Injective 1.0 Is another word for    
+Onto Bijective 0.5 Is half of requirements for    
+Onto Surjective 1.0 Is another word for    
+Surjective Onto 1.0 Is another word for    
+One_To_One Bijective 0.5 Is half of requirements for    
+Bijective Function 1.0 Is a type of    
+Bijective Onto 0.5 Requires    
+Bijective One_To_One 0.5 Requires    
+Function Quantifier 0.6 Can be bounded by    
+Quantifier Predicates 0.9 Can describe    
+Quantifier For_All 1.0 Includes    
+For_All Quantifier 1.0 Is a    
+For_All all() 1.0 Is the same as Python    
+Quantifier For_Each 1.0 Includes    
+For_Each Quantifier 1.0 Is a    
+For_Each any() 1.0 Is the same as Python    
+Quantifier DeMorgan_Laws 0.6 Is negated by    
+DeMorgan DeMorgan_Laws 1.0 Created    
+DeMorgan_Laws Logic_Gate 1.0 Describe negation of    
+DeMorgan_Laws Quantifier 1.0 Describe negation of    
+Relation Binary 0.4 Can be    
+Binary Function 0.8 Has 2 inputs for    
+Binary Number_System 0.9 Is a base 2    
+Binary Tree 0.9 Can be a    
+Relation And 1.0 Can be    
+And Logic_Gate 1.0 Is a    
+Logic_Gate Truth_Table 1.0 Determines output in    
+Truth_Table Boolean 1.0 Is represented in computer by a     
+Boolean Binary 1.0 Is represented by    
+Relation Or 0.7 Can be    
+Relation Xor 0.7 Can be    
+Relation Not 0.7 Can be    
+Relation Symmetric 1.0 Can be    
+Symmetric Undirected 1.0 Describes graph type    
+Relation Transitive 1.0 Can be    
+Relation Reflexive 1.0 Can be    
+Relation Equivalence 1.0 Can be type    
+Equivalence Binary 0.6 Requires type    
+Equivalence Modular_Arithmetic 0.8 Describes    
+Modular_Arithmetic Chinese_Remainder_Theorem 1.0 Soves linear systems by    
+Modular_Arithmetic Modulus 1.0 Is described by    
+Equivalence Congruence 0.8       
+Congruence Equivalence 0.8    
+Modulus Modular_Arithmetic 1.0 Describes    
+Sets Element 0.8 Is a combination of    
+Element Combination 0.6 Can be rearranged by    
+Combination Element 0.6 Rearrange    
+Combination Combinatorics_Probability 1.0 Is studied in    
+Element Permutation 0.6 Are rearranged by    
+Permutation Element 0.6 Rearrange    
+Permutation Combinatorics_Probability 1.0 Is Studied in    
+Permutation Factorial 0.8 Is calculated by    
+Combination Factorial 0.8 Is calculated by    
+Factorial Product 1.0 Is a    
+Permutation Seating 1.0 Can be represented by    
+Combination N_Choose_K 1.0 Is represented by    
+Set Subsets 1.0 Contain    
+Set Intersection 1.0 Is an operand for    
+Set Union 1.0 Is an operand for    
+Intersection Operation 1.0 Is an    
+Union Operation 1.0 Is an    
+Complex_Numbers Real_Numbers 1.0 Has subset of    
+Real_Numbers Complex_Numbers 1.0 Is a subset of    
+Real_Numbers Countable 0.6 Are not    
+Countable Cardinality 1.0 Has the same _ as N    
+Natural_Numbers Real_Numbers 1.0 Is a subset of    
+Real_Numbers Natural_Numbers 1.0 Contains    
+Natural_Numbers Integers 1.0 Is a subset of    
+Integers Real_Numbers 1.0 Is a subset of    
+Integers Number_Theory 1.0 Studies    
+Real_Numbers Real_Analysis 1.0 Is the study of    
+Supremum Real_Analysis 1.0 Is the greatest upper bound    
+Infimum Real_Analysis 1.0 Is the lowest lower bound    
+Complex_Numbers e^(i*pi) 0.7 Describe the relation    
+e^(i*pi) Eulers_Formula 1.0 Can be proved by    
+Eulers_Formula Euler 1.0 Was created by    
+Complex_Numbers Eigenvalues 1.0 Can be    
+Number_Theory Primes 1.0 Conjectures about    
+Primes log(n) 0.6 Below n is a ratio of    
+Number_Theory Alternate_Base_Repr 0.8 Deals with    
+Alternate_Base_Repr Binary 1.0 Can be    
+Binary Alternate_Base_Repr 1.0 Is a    
+Number_Theory Coprime 1.0 Two number can be    
+Coprime GCD 1.0 The GCD is 1    
+GCD Euclidean_GCD 1.0 Can be calculated by    
+Euclidean_GCD GCD 1.0 Calculates     
+Euclidean_GCD Modulus 1.0 Is calculated by    
+Number_Theory RSA 1.0 Describes    
+RSA Public_Key_Encryption 1.0 Is a type of    
+RSA Primes 1.0 Is a product of    
+Number_Theory Residue_Number_Systems 1.0 Studies    
+Residue_Number_Systems Modulus 1.0 Determined by    
+Modulus MMI 1.0 Is inverted by    
+Modulus Congruence_Relation 1.0 Is an example of a    
+Real_Analysis Real_Numbers 1.0 Is the study of    
+Real_Analysis Irrationality 1.0 Describes    
+Real_Analysis Cardinaility 1.0 Defines    
+Real_Analysis Set 1.0 Defines cardinality of    
+Set Bijective_Function 1.0 Has same cardinality when _ exists    
+Bijective_Function Bijective 1.0 Is    
+Cardinality Countable 1.0 Defines    
+Tree Graph 1.0 Is a more constrained version of    
+Graph Complete 1.0 Can be    
+Graph Wheel 1.0 Can be    
+Graph Bipartite 1.0 Can be    
+Bipartite Complete 1.0 Can be    
+Graph Cube 1.0 Can be a    
+Cube 2^n 1.0 Contains nodes    
+Graph Nodes 1.0 Contain    
+Nodes Vertices 1.0 Another word for    
+Vertices Nodes 1.0 Another word for    
+Nodes Degree 1.0 Has property    
+Degree Out_Degree 1.0 Can be type    
+Degree In_Degree 1.0 Can be type    
+Graph Undirected 1.0 Can be    
+Undirected Symmetric 1.0 Describes relation that is    
+Graph Directed 1.0 Can be    
+Graph Paths 1.0 Are explored by    
+Paths DFS 1.0 Can be generated by    
+Paths BFS 1.0 Can be generated by    
+BFS Stack 1.0 Uses    
+Stack Push 1.0 Has operation    
+Stack Pop 1.0 Has operation    
+Graph Cycles 1.0 Can contain    
+Graph Psuedo 1.0 Can be type    
+Psuedo Loops 1.0 Can contain    
+Graph Planar 1.0 Can be    
+Planar Intersection 1.0 Can be rewritten with no    
+Graph Non-Planar 1.0 Can be    
+Non-Planar Intersection 1.0 Cannot be rewritten without    
+Graph Multigraph 1.0 Can be type    
+Multigraph Edge 1.0 Has multiple    
+Graph Digraph 1.0 Can be type    
+Digraph Binary 1.0 Can be represented with relation of type    
+Graph Adjacency_Matrix 1.0 Can be represented by    
+Graph Incidence_Matrix 1.0 Can be represented by    
+Graph Subgraphs 1.0 Can have    
+Subgraph Subset 1.0 Is a _ of the original graph    
+Graph Intersection 1.0 Can be operand of    
+Graph Union 1.0 Can be operand    
+Graph Complement 1.0 Has property    
+Complement Complete 1.0 Contains non-present nodes in    
+Tree Rooted 1.0 Can be    
+Tree Branches 1.0 Contain    
+Branches Paths 1.0 Are explored by    
+Branches Leaves 1.0 Can extend to    
+Branches Arc 1.0 Is also known as    
+Branches Edge 1.0 Is also known as    
+Tree Perfect 1.0 Can be    
+Perfect 2^n 1.0 Has _ leaves    
+Tree Balanced 1.0 Can be    
+Tree Recursion 1.0 Can be explored by    
+Recursion log(n) 1.0 Generally bounded by    
+Tree AVL 1.0 Can be    
+Tree Parsing 1.0 Can describe    
+Parsing Language 1.0 Is a problem of    
+Parsing Finite_Automata 1.0 Determined by    
+Finite_Automata Nondeterministic_FA 1.0 Are constrained types of    
+Finite_Automata State_Machine 1.0 Is a type of    
+State_Machine Accepting 1.0 Has state    
+Accepting Boolean 1.0 Is a    
+State_Machine Rejecting 1.0 Has state    
+Rejectinve Boolean 1.0 Is a    
+Parsing Grammar 1.0 string is accepted by    
+Grammar Production 1.0 Is defined by many    
+Production Nonterminal 1.0 Contains    
+Production Terminal 1.0 Contains    
+Production Regular_Expression 1.0 Can be identified with    
+Regular_Expression Union 1.0 Is operand of    
+Regular_Expression Concatenation 1.0 Is operand of    
+Regular_Expression Star 1.0 Is operand of    
+Tree Permutation_Tree 1.0 Produces    
+Permuation_Tree Permutations 1.0 Explores all    
+Tree Binary 1.0 Can be    
+Tree Huffman_Tree 1.0 Can be a    
+Huffman_Tree Compression 1.0 Explores    
+Huffman_Tree Compression_Ratio 1.0 Has    
+Compression_Ratio Encoding 1.0 Determined by a fixed length    
+Huffman_Tree Balanced 1.0 Is better when not    
+Huffman_Tree Bottom_Up 1.0 Is built with    
+Tree Full 1.0 Can be    
+Tree Complete 1.0 Can be    
+Set Graph 1.0 Can describe the edges in a   
+Chinese_Remainder_Theorem Modular_Arithmetic 1.0 Uses   
+Incidence_Matrix Matrix 1.0 Is a   
+Bottom_Up Parsing 1.0 Is algorithm for   
+Full Tree 1.0 Describes a   
+Matrix Eigenvalues 1.0 If square contains   
+Combinatorics_Probability Combination 1.0 Studies   
+Combinatorics_Probability Permutation 1.0 Studies   
+Primes Coprime 1.0 Are always   
+Sets Set 1.0 Is the plural form   
+all() Function 1.0 Is a   
+any() Function 1.0 Is a   
+Seating Permutation 1.0 Is a problem good for   
+Permutations Permutation 1.0 Is the plural form of   
+Permutation Permutations 1.0 Is singular   
+Permutations Permuation_Tree 1.0 Are explored by   
+Permuation_Tree Tree 1.0 Is a type of   
+Permutation_Tree Permuation_Tree 1.0 Is a duplicate of   
+Nonterminal Production 1.0 Is part of a   
+Language Alphabet 1.0 Contains a   
+Alphabet Element 1.0 Is made up of   
+Production Grammar 1.0 Defines a   
+Arc Edge 1.0 Is synonymous to   
+Edge Arc 1.0 Is synonymous to   
+Edge Paths 1.0 Describes   
+Paths Edge 1.0 Follow   
+Directed Graph 1.0 Is a type of   
+Eigenvalues Matrix 1.0 Are properties of a square   
+log(n) Function 1.0 Is a   
+Subset Subsets 1.0 Is singular of   
+Subsets Subset 1.0 Is plural of   
+Subsets Set 1.0 Are contained in   
+Subset Set 1.0 Is a smaller part of   
+Adjacency_Matrix Matrix 1.0 Is a   
+Adjacency_Matrix Graph 1.0 Represents   
+AVL Tree 1.0 Is a type of   
+Subgraphs Graph 1.0 Are smaller parts of a  
+Xor Logic_Gate 1.0 Is a  
+Or Logic_Gate 1.0 Is a  
+Pop Stack 1.0 Is an operation of  
+Push Stack 1.0 Is an operation of  
+Push Operation 1.0 Is an  
+Pop Operation 1.0 Is an  
+Nondeterministic_FA Finite_Automata 1.0 Is an ambiguous form of  
+Balanced Tree 1.0 Describes  
+Transitive Relation 1.0 Describes a  
+Stars_And_Bars N_Multichoose_K 1.0 Are described by  
+Stars_And_Bars Combinatorics_Probability 1.0 Are studied in  
+N_Multichoose_K Stars_And_Bars 1.0 Describe  
+Combinatorics_Probability N_Multichoose_K 1.0 Studies  
+N_Choose_K Combination 1.0 Describe  
+Alphabet Language 1.0 Describe elements in a  
+Alphabet Terminal 1.0 Can be made of many  
+Alphabet Nonterminal 1.0 Can be made of many  
+Irrationality Real_Analysis 1.0 Is explored in  
+Not Logic_Gate 1.0 Is a  
+Alternate_Base_Repr Primes 1.0 Can be made of 
+Natural_Numbers Primes 1.0 Are products of 
+2^n Function 1.0 Is an exponential 
+Loops Python 1.0 Are in 
+Python Language 1.0 Is a 
+all() Python 1.0 Is in 
+any() Python 1.0 Is in 
+Complete Graph 1.0 Describes 
+Node Subgraphs 1.0 Is the smallest 
+Node Nodes 1.0 Is singular version of 
+Nodes Node 1.0 Is plural of 
+Out_Degree Nodes 1.0 Is property of 
+In_Degree Nodes 1.0 Is property of 
+Out_Degree Directed 1.0 Is not equal to in degree when 
+In_Degree Directed 1.0 Is not equal to out degree when graph is 
+Directed Edge 1.0 Describes property of 
+Edge Directed 1.0 Can be 
+Cardinaility Cardinality 1.0 Is a duplicate of 
+Wheel Graph 1.0 Descibes 
+Bipartite Graph 1.0 Describes 
+Bipartite Onto 1.0 Describes a graph that is
+Cube Graph 1.0 Describes 
+Cycles Graph 1.0 Can be found in 
+Cycles DFS 1.0 Are found via 
+DFS Paths 1.0 Explores 
+Cycles Paths 1.0 Are types of 
+Rooted Tree 1.0 Describes a type of 
+Star Regular_Expression 1.0 Is an operation that forms 
+Concatenation Regular_Expression 1.0 Is an operation that forms 
+Concatenation Alphabet 1.0 Requires 
+None Python 1.0 Is in 
+Modulus Congruence 1.0 Is a type of 
+And Python 1.0 Is in 
+Function Python 1.0 Can be defined in 
+Terminal Alphabet 1.0 Can be part of 
+Function Codomain 1.0 Contain 
+Range Python 1.0 Is in 
+Function Range 1.0 Contain 
+Domain Function 1.0 Describes a 
+Codomain Function 1.0 Describes a 
+Range Codomain 1.0 Is a subset of 
+Codomain Range 1.0 Is a superset of 
+Real_Numbers Codomain 1.0 Is the _ for real-valued functions 
+Leaves Tree 1.0 Are the bottom of a
+Psuedo Graph 1.0 Is a type of
+Relation Graph 1.0 Describe the relations in
+MMI Modulus 1.0 Finds the identity of a _ operation
+Compression Encoding 1.0 Studies the best type of
+Compression Huffman_Tree 1.0 Is explored by
+Recursion Binary 1.0 Is used in binary search
+Recursion Tree 1.0 Is the best way to explore a
