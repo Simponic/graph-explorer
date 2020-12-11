@@ -13,6 +13,7 @@ pip install pygame
 For a video overview: watch [https://www.youtube.com/watch?v=nIgWwrd05ts]
 
 ```bash
+cd src
 python3 main.py
 ```
 Select a node by clicking it; this will focus the links that are directed out of that node.
@@ -29,6 +30,7 @@ Press "C" to clear all the selected nodes.
 ## Using the WOK Builder
 
 ```bash
+cd src
 python3 builder.py
 ```
 
