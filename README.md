@@ -10,6 +10,8 @@ pip install pygame
 ```
 
 ## Usage
+For a video overview: watch [https://www.youtube.com/watch?v=nIgWwrd05ts]
+
 ```bash
 python3 main.py
 ```
