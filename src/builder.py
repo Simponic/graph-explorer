@@ -9,8 +9,9 @@ def main():
     clock = pygame.time.Clock()
 
     running = True
-    graph = Graph(screen, file="finalGraph.txt")
-    graph.fromFile(False)
+#    graph = Graph(screen, file="copy.txt")
+#    graph.fromFile(False)
+    graph = Graph(screen)
     isNodeUnderMouse = False
     node1 = None
     node2 = None
@@ -25,7 +26,7 @@ def main():
                 file.close()
                 running = False
             if event.type == pygame.KEYDOWN:
-                if event.key == pygame.K_SPACE:
+                if event.key == pygame.K_f:
                     find = input("Name of node: ")
                     for i in graph.nodes:
                         if i.text == find:
@@ -40,7 +41,7 @@ def main():
                         graph.drawLinks(i)
                         if (node1):
                             node2 = i
-                            description = input("Description of link: ")
+                            description = input("Description of link between " + node1.text + " and " + node2.text + ": ")
                             if (description != "no"):
                                 graph.links.append([node1, node2, 1.0, description])
                             node2 = None
