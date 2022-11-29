@@ -1,5 +1,8 @@
 # Graph Explorer
-This is a WOK (wealth of knowledge) explorer that I made for fun and profit for CSE280.
+This is a WOK (wealth of knowledge) explorer that I made as a fun project for CSE280.
+
+https://user-images.githubusercontent.com/25559600/204606705-ea742b05-b452-47e0-9069-b7cc5e7339a6.mp4
+
 
 ## Installation
 
@@ -10,7 +13,7 @@ pip install pygame
 ```
 
 ## Usage
-For a video overview: watch [https://www.youtube.com/watch?v=nIgWwrd05ts]
+For a video overview: watch on (YouTube)[https://www.youtube.com/watch?v=nIgWwrd05ts]
 
 ```bash
 cd src
